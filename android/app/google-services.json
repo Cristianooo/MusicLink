@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "464701122515",
+    "firebase_url": "https://music-link-db3f5.firebaseio.com",
+    "project_id": "music-link-db3f5",
+    "storage_bucket": "music-link-db3f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464701122515:android:0024a277bf0ce04b",
+        "android_client_info": {
+          "package_name": "com.example.music_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464701122515-7csonkdfhudh39l417kars69vakgh8oo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcqBlpMu5n8bGseGyuO2PnudC_dHDmDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464701122515-7csonkdfhudh39l417kars69vakgh8oo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "464701122515-th58j4sl95h237g98vbcs0pmn44f5ucu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.musicLink"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
